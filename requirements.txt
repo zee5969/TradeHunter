@@ -4,4 +4,4 @@ beautifulsoup4
 pandas
 openpyxl
 python-dotenv
-groq
+groqtavily-python
